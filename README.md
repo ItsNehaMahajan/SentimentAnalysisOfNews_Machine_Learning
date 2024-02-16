@@ -16,9 +16,8 @@ Sentiment analysis, also known as opinion mining, involves using natural languag
  Technologies Used
 
 - Python
-- Natural Language Processing (NLP) Libraries (NLTK, spaCy, TextBlob)
-- Machine Learning Libraries (scikit-learn, TensorFlow, PyTorch)
-- Web Scraping (Beautiful Soup, Scrapy)
-- Data Visualization Libraries (Matplotlib, Seaborn)
+- Natural Language Processing (NLP) 
+- Machine Learning
+- Data Visualization 
 
 
